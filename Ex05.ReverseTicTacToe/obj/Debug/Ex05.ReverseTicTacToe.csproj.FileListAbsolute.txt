@@ -1,0 +1,7 @@
+C:\Users\yuval\Desktop\B21 Ex05 YuvalDoron 207331554 RonnieMillet 315564674\Ex05.ReverseTicTacToe\bin\Debug\Ex05.ReverseTicTacToe.exe.config
+C:\Users\yuval\Desktop\B21 Ex05 YuvalDoron 207331554 RonnieMillet 315564674\Ex05.ReverseTicTacToe\bin\Debug\Ex05.ReverseTicTacToe.exe
+C:\Users\yuval\Desktop\B21 Ex05 YuvalDoron 207331554 RonnieMillet 315564674\Ex05.ReverseTicTacToe\bin\Debug\Ex05.ReverseTicTacToe.pdb
+C:\Users\yuval\Desktop\B21 Ex05 YuvalDoron 207331554 RonnieMillet 315564674\Ex05.ReverseTicTacToe\obj\Debug\Ex05.ReverseTicTacToe.csprojAssemblyReference.cache
+C:\Users\yuval\Desktop\B21 Ex05 YuvalDoron 207331554 RonnieMillet 315564674\Ex05.ReverseTicTacToe\obj\Debug\Ex05.ReverseTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\yuval\Desktop\B21 Ex05 YuvalDoron 207331554 RonnieMillet 315564674\Ex05.ReverseTicTacToe\obj\Debug\Ex05.ReverseTicTacToe.exe
+C:\Users\yuval\Desktop\B21 Ex05 YuvalDoron 207331554 RonnieMillet 315564674\Ex05.ReverseTicTacToe\obj\Debug\Ex05.ReverseTicTacToe.pdb
